@@ -10,7 +10,7 @@ const allowedOrigins = [
   "http://127.0.0.1:5500",
   "http://localhost:5500",
   "http://localhost:4200/",
-  "https://justlearningmx.github.io"
+  "https://poc-bepyme-ia-f28d9a.gitlab.io"
 ];
 
 if (process.env.FRONTEND_ORIGIN) {
